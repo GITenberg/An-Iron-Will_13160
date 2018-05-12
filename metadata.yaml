@@ -1,0 +1,37 @@
+_repo: An-Iron-Will_13160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Marden, Orison Swett
+    birthdate: 1848
+    deathdate: 1924
+    gutenberg_agent_id: '1515'
+    url: http://www.gutenberg.org/2009/agents/1515
+    wikipedia: http://en.wikipedia.org/wiki/Orison_Swett_Marden
+  - agent_name: Bayley, Abner
+    gutenberg_agent_id: '39645'
+    url: http://www.gutenberg.org/2009/agents/39645
+description: Collected here are three books by Orson Swett Marden, a pioneer of the
+  positive thinking movement. These books address all areas of life. Through them
+  you will find a pathway to happiness and well being, success and prosperity. How
+  you look at life and how you approach each situation life brings your way matters.
+  Long before there was Law of Attraction, The Science of Success, and The Secret
+  there was Orson Swett Marden.
+gutenberg_issued: '2004-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13160'
+  lccn: '01016425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Success'
+- !lcsh 'Will'
+- !lcc 'BF'
+title: An Iron Will
+url: http://www.gutenberg.org/ebooks/13160
